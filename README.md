@@ -113,6 +113,6 @@ This project follows TDD principles to solve the kata problem. The solution is b
 
 ## Test Coverage
 
-The current test coverage of this project is **93%**.
+The current test coverage of this project is **96%**.
 
 ![Test Coverage Screenshot](public/Code_coverage.png) 
