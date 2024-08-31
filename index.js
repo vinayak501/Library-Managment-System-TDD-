@@ -8,3 +8,14 @@ class Book {
     this.willBeAvailableAt = undefined;
   }
 }
+
+class Library{
+    constructor(){
+        this.books = [];
+    }
+
+
+}
+
+
+export default Library;
