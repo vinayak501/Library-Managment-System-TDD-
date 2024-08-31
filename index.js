@@ -9,12 +9,11 @@ class Book {
   }
 }
 
-class Library{
-    constructor(){
-        this.books = [];
-    }
-
-
+class Library {
+  constructor() {
+    this.books = [];
+  }
+  
 }
 
 
