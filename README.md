@@ -36,7 +36,7 @@ Create a simple library management system that allows users to perform basic ope
 - **View Available Books**:
   - Users should be able to view a list of all available books in the library.
 
-For a detailed problem statement and requirements, [click here](Problem%20Statement.md).
+For a detailed problem statement and requirements, [click here](public/Kata_Library_Management_System.pdf).
 
 ## Solution
 
